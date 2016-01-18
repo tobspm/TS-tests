@@ -1,0 +1,9 @@
+#!/bin/bash
+# Nima T (c) 2016
+# tests pour TS
+
+pth="../TS"
+
+cd $pth
+python main.py
+
