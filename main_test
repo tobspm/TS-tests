@@ -3,7 +3,11 @@
 # tests pour TS
 
 pth="../TS"
+directory=`pwd`
 
 cd $pth
+echo "The file directory is: $directory"
+
 python main.py
+
 
