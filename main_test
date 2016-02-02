@@ -5,8 +5,12 @@
 pth="../TS"
 directory=`pwd`
 
+find -name config.py
+
+#config_file = `config.py`
+
 cd $pth
-echo "The file directory is: $directory"
+echo "The file 'main.py' directory is: $directory"
 
 python main.py
 

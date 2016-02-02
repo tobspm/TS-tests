@@ -9,8 +9,8 @@ output_trajectory_file = "result.traj"
 output_ephemeris_file = "ephemeris.traj"
 
 #------------- Nima
+output_trajectory_vts_format_file = "result_vts_format.traj"
 output_ephemeris_vts_format_file = "ephemeris_vts_format.traj"
-
 #-----------------EOM---
 
 
